@@ -1,0 +1,8 @@
+@font-face {font-family: "Harmonia Sans Pro Cyr";
+  src: url("fonts/HarmoniaSansProCyr.eot");
+  src: url("fonts/HarmoniaSansProCyr.eot?#iefix") format("embedded-opentype"),
+  url("fonts/HarmoniaSansProCyr.woff2") format("woff2"),
+  url("fonts/HarmoniaSansProCyr.woff") format("woff"),
+  url("fonts/HarmoniaSansProCyr.ttf") format("truetype"),
+  url("fonts/HarmoniaSansProCyr.svg#HarmoniaSansProCyr-Regular") format("svg");
+}
